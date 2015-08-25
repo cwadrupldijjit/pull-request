@@ -2,6 +2,7 @@
 
 var foreverRun = function () {
   console.log("Daniel Rocks");
-  foreverRun();
-  console.log('poop');
+  console.log('Whatever...');
 }
+
+foreverRun();
